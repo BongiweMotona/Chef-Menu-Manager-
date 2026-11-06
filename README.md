@@ -1,6 +1,6 @@
 # Chef's Menu Manager
 
-A React Native (Expo) mobile application that helps a restaurant chef manage the menu from a mobile device. Built for the MAST POE.
+A React Native (Expo) mobile application that helps a restaurant chef manage the menu from a mobile device.
 
 **Student:** [ST1052889]
 
