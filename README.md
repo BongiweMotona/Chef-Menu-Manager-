@@ -61,4 +61,4 @@ A React Native (Expo) mobile application that helps a restaurant chef manage the
 
 ## Links
 
-- 
+- https://youtu.be/rL7-X0zeVVI 
